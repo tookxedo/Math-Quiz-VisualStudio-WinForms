@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\Mathquiz\Mathquiz\bin\Debug\Mathquiz.exe.config
+C:\Users\user\source\repos\Mathquiz\Mathquiz\bin\Debug\Mathquiz.exe
+C:\Users\user\source\repos\Mathquiz\Mathquiz\bin\Debug\Mathquiz.pdb
+C:\Users\user\source\repos\Mathquiz\Mathquiz\obj\Debug\Mathquiz.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Mathquiz\Mathquiz\obj\Debug\Mathquiz.Form1.resources
+C:\Users\user\source\repos\Mathquiz\Mathquiz\obj\Debug\Mathquiz.Properties.Resources.resources
+C:\Users\user\source\repos\Mathquiz\Mathquiz\obj\Debug\Mathquiz.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Mathquiz\Mathquiz\obj\Debug\Mathquiz.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Mathquiz\Mathquiz\obj\Debug\Mathquiz.exe
+C:\Users\user\source\repos\Mathquiz\Mathquiz\obj\Debug\Mathquiz.pdb
